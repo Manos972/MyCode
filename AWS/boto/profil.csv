@@ -1,0 +1,6 @@
+username,password,group,policy
+aliceXY,TempPass123d,developers,arn:aws:iam::aws:policy/ReadOnlyAccess
+bobXY,TempPass456,admins,arn:aws:iam::aws:policy/ReadOnlyAccess
+charlieXy2,TempPass789,admins,arn:aws:iam::aws:policy/AdministratorAccess
+ManosXZ2,TempPass789,developers,arn:aws:iam::aws:policy/AdministratorAccess
+charlieXZ2,TempPass789,admins,arn:aws:iam::aws:policy/AdministratorAccess

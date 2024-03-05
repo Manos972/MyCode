@@ -1,0 +1,144 @@
+- INFO -> Le groupe Manos_Manos_S3ReadOnlyGroup à été créé.
+- INFO -> L'utilisateur Manos_Manos_CloudSysOps à été créé.
+- INFO -> Clés d'accès générées pour Manos_Manos_CloudSysOps.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans credentials.json.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup à été créé.
+- INFO -> L'utilisateur Manos_CloudSysOps à été créé.
+- INFO -> Clés d'accès générées pour Manos_CloudSysOps.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans credentials.json.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup existe déjà.
+- INFO -> L'utilisateur Manos_CloudSysOps existe déjà.
+- INFO -> Clés d'accès générées pour Manos_CloudSysOps.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans credentials.json.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup existe déjà.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup existe déjà.
+- INFO -> L'utilisateur Manos_CloudSysOpsZ à été créé.
+- INFO -> Clés d'accès générées pour Manos_CloudSysOpsZ.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans credentials.json.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup existe déjà.
+- INFO -> L'utilisateur Manos_CloudSysOpsZ existe déjà.
+- INFO -> Clés d'accès générées pour Manos_CloudSysOpsZ.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans credentials.json.
+- INFO -> Le groupe Manos_S3ReadOnlyGroup existe déjà.
+- INFO -> L'utilisateur Manos_CloudSysOpsX à été créé.
+- INFO -> Clés d'accès générées pour Manos_CloudSysOpsX.
+- INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+- INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+- ERROR -> Erreur : An error occurred (AccessDenied) when calling the GetGroup operation: User: arn:aws:iam::608992435264:user/Manos_Pycharm is not authorized to perform: iam:GetGroup on resource: group Manos_S3ReadOnlyGroupXY because no identity-based policy allows the iam:GetGroup action
+2023-11-09 13:04:47,918 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:04:48,470 - ERROR -> Erreur : An error occurred (AccessDenied) when calling the GetGroup operation: User: arn:aws:iam::608992435264:user/Manos_Pycharm is not authorized to perform: iam:GetGroup on resource: group Manos_S3ReadOnlyGroupXY because no identity-based policy allows the iam:GetGroup action
+2023-11-09 13:05:32,577 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:05:33,137 - ERROR -> Erreur raise -->  An error occurred (AccessDenied) when calling the GetGroup operation: User: arn:aws:iam::608992435264:user/Manos_Pycharm is not authorized to perform: iam:GetGroup on resource: group Manos_S3ReadOnlyGroupXY because no identity-based policy allows the iam:GetGroup action
+2023-11-09 13:07:35,279 - INFO -> Le groupe Manos_S3ReadOnlyGroupXY à été créé.
+2023-11-09 13:07:35,660 - INFO -> L'utilisateur Manos_CloudSysOpsXY à été créé.
+2023-11-09 13:07:35,921 - INFO -> Clés d'accès générées pour Manos_CloudSysOpsXY.
+2023-11-09 13:07:35,921 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 13:39:58,880 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:39:59,607 - INFO -> Le groupe Manos_S3ReadOnlyGroupXYZ à été créé.
+2023-11-09 13:40:00,021 - INFO -> L'utilisateur Manos_CloudSysOpsXYZ à été créé.
+2023-11-09 13:40:00,391 - INFO -> Clés d'accès générées pour Manos_CloudSysOpsXYZ.
+2023-11-09 13:40:00,392 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 13:47:15,552 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:47:47,258 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:54:20,368 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:54:37,022 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:57:09,329 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:57:23,733 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:57:44,801 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 13:59:00,703 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:04:11,661 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:05:07,674 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:05:08,226 - ERROR -> Erreur raise -->  An error occurred (ValidationError) when calling the GetGroup operation: The specified value for groupName is invalid. It must contain only alphanumeric characters and/or the following: +=,.@_-
+2023-11-09 14:06:42,293 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:11:37,612 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:11:38,331 - INFO -> Le groupe Manos_admins à été créé.
+2023-11-09 14:11:38,781 - INFO -> L'utilisateur Manos_bob à été créé.
+2023-11-09 14:11:39,073 - INFO -> Clés d'accès générées pour Manos_bob.
+2023-11-09 14:11:39,074 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:12:25,907 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:12:26,590 - INFO -> Le groupe Manos_ à été créé.
+2023-11-09 14:12:26,986 - INFO -> L'utilisateur Manos_charlie à été créé.
+2023-11-09 14:12:27,267 - INFO -> Clés d'accès générées pour Manos_charlie.
+2023-11-09 14:12:27,267 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:25:06,551 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:25:07,262 - INFO -> Le groupe Manos_developers a été créé.
+2023-11-09 14:25:07,636 - INFO -> L'utilisateur Manos_aliceX a été créé.
+2023-11-09 14:25:07,897 - INFO -> Clés d'accès générées pour Manos_aliceX.
+2023-11-09 14:25:07,898 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:25:08,389 - INFO -> L'utilisateur Manos_bobX a été créé.
+2023-11-09 14:25:08,648 - INFO -> Clés d'accès générées pour Manos_bobX.
+2023-11-09 14:25:08,648 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:25:09,146 - INFO -> L'utilisateur Manos_charlieX a été créé.
+2023-11-09 14:25:09,406 - INFO -> Clés d'accès générées pour Manos_charlieX.
+2023-11-09 14:25:09,406 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:40:59,646 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:40:59,779 - ERROR -> Les colonnes du fichier .csv ne correspondent pas aux colonnes attendues. Les colonnes attendues sont ['username', 'password', 'group', 'policy'].
+2023-11-09 14:48:04,612 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:51:19,492 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:51:53,051 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:52:14,610 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:53:37,423 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:54:02,447 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:54:18,867 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 14:54:19,849 - INFO -> L'utilisateur Manos_bobXY a été créé.
+2023-11-09 14:54:20,126 - INFO -> Clés d'accès générées pour Manos_bobXY.
+2023-11-09 14:54:20,127 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:54:20,662 - INFO -> L'utilisateur Manos_charlieXy a été créé.
+2023-11-09 14:54:20,942 - INFO -> Clés d'accès générées pour Manos_charlieXy.
+2023-11-09 14:54:20,943 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:54:21,476 - INFO -> L'utilisateur Manos_ManosXZ a été créé.
+2023-11-09 14:54:21,750 - INFO -> Clés d'accès générées pour Manos_ManosXZ.
+2023-11-09 14:54:21,751 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 14:54:22,252 - INFO -> L'utilisateur Manos_charlieXZ a été créé.
+2023-11-09 14:54:22,522 - INFO -> Clés d'accès générées pour Manos_charlieXZ.
+2023-11-09 14:54:22,522 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 15:08:15,728 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:09:51,128 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:25:37,623 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:30:36,136 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:31:00,928 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:31:01,478 - INFO -> Le groupe Manos_adminsManos a été créé.
+2023-11-09 15:32:06,442 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 15:32:07,646 - INFO -> Clés d'accès générées pour Manos_bobXY.
+2023-11-09 15:32:07,647 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 15:32:08,382 - INFO -> Clés d'accès générées pour Manos_charlieXy.
+2023-11-09 15:32:08,383 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 15:32:09,117 - INFO -> Clés d'accès générées pour Manos_ManosXZ.
+2023-11-09 15:32:09,117 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 15:32:09,849 - INFO -> Clés d'accès générées pour Manos_charlieXZ.
+2023-11-09 15:32:09,850 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 16:46:38,805 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 16:47:52,888 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-09 16:47:54,032 - INFO -> Clés d'accès générées pour Manos_bobXY.
+2023-11-09 16:47:54,032 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 16:47:54,403 - INFO -> L'utilisateur Manos_charlieXy2 a été créé.
+2023-11-09 16:47:54,823 - INFO -> Clés d'accès générées pour Manos_charlieXy2.
+2023-11-09 16:47:54,824 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 16:47:55,177 - INFO -> L'utilisateur Manos_ManosXZ2 a été créé.
+2023-11-09 16:47:55,608 - INFO -> Clés d'accès générées pour Manos_ManosXZ2.
+2023-11-09 16:47:55,608 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-09 16:47:55,966 - INFO -> L'utilisateur Manos_charlieXZ2 a été créé.
+2023-11-09 16:47:56,472 - INFO -> Clés d'accès générées pour Manos_charlieXZ2.
+2023-11-09 16:47:56,473 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-10 11:50:46,089 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-10 11:50:46,238 - ERROR -> Veuillez vérifier les colonnes du fichier .csv . Instencier vos colonnes comme suit -->  ['username', 'password'].
+2023-11-10 11:51:18,671 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-10 11:51:18,800 - ERROR -> Veuillez vérifier les colonnes du fichier .csv . Instencier vos colonnes comme suit -->  ['username', 'password'].
+2023-11-10 11:51:42,417 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-10 11:51:42,550 - ERROR -> Veuillez vérifier les colonnes du fichier .csv . Instencier vos colonnes comme suit -->  ['username', 'password', 'group', 'policy'].
+2023-11-10 11:52:05,821 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-10 11:52:06,387 - INFO -> Le groupe Manos_admins a été créé.
+2023-11-10 11:52:22,198 - INFO -> Found credentials in shared credentials file: ~/.aws/credentials
+2023-11-10 11:52:22,970 - INFO -> L'utilisateur Manos_bobXY a été créé.
+2023-11-10 11:52:23,467 - INFO -> Clés d'accès générées pour Manos_bobXY.
+2023-11-10 11:52:23,467 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-10 11:52:23,826 - INFO -> L'utilisateur Manos_charlieXy2 a été créé.
+2023-11-10 11:52:24,315 - INFO -> Clés d'accès générées pour Manos_charlieXy2.
+2023-11-10 11:52:24,316 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-10 11:52:24,425 - INFO -> Le groupe Manos_developers a été créé.
+2023-11-10 11:52:24,773 - INFO -> L'utilisateur Manos_ManosXZ2 a été créé.
+2023-11-10 11:52:25,264 - INFO -> Clés d'accès générées pour Manos_ManosXZ2.
+2023-11-10 11:52:25,264 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
+2023-11-10 11:52:25,614 - INFO -> L'utilisateur Manos_charlieXZ2 a été créé.
+2023-11-10 11:52:26,088 - INFO -> Clés d'accès générées pour Manos_charlieXZ2.
+2023-11-10 11:52:26,089 - INFO -> Les infos utilisateur et AccessKey ont été sauvegardés dans user_cred.json.
