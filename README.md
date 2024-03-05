@@ -1,8 +1,9 @@
-#AWS 
+# AWS 
 
-###Bash et Boto3 (python)
+### Bash et Boto3 (python)
 
-#TESTPOOFNCS 
+# TESTPOOFNCS 
 
-###Programation oriente objet avec de petits scripts sur les principes de Python
+### Programation oriente objet avec de petits scripts sur les principes de Python
 
+Sous forme de mini jeu et d'utilitaire
